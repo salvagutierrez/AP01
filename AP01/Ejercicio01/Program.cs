@@ -10,6 +10,7 @@ namespace Ejercicio01
     {
         static void Main(string[] args)
         {
+            // Iniciamos la programación en el main
         }
     }
 }
