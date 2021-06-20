@@ -10,6 +10,7 @@ namespace EJ02
     {
         static void Main(string[] args)
         {
+            // Programamos el main
         }
     }
 }
