@@ -8,6 +8,6 @@ namespace EJ02
 {
     class Transporte
     {
-        Programamos la clase Transporte
+        // Programamos la clase Transporte
     }
 }
