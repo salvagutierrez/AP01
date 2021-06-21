@@ -9,5 +9,7 @@ namespace EJ02
     class Coche
     {
         // Agregamos clase Coche al proyecto
+
+        // Incluimos propiedades en Clase Coche
     }
 }
